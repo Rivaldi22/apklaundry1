@@ -5,3 +5,10 @@ Aplikasi web laundry ini dirancang untuk membantu pengelolaan usaha laundry seca
 ## 📸 Tampilan Aplikasi
 
 ![Tampilan Aplikasi](assets/image.png)
+
+## ⚙️ Instalasi
+1. Clone repository ini.
+2. Import database.
+3. Sesuaikan koneksi database di `config/koneksi.php`.
+4. Akses melalui browser dengan `localhost/apklaundry1`.
+5. Username dan password tertera pada txt
