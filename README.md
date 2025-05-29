@@ -4,4 +4,4 @@ Aplikasi web laundry ini dirancang untuk membantu pengelolaan usaha laundry seca
 
 ## 📸 Tampilan Aplikasi
 
-![Tampilan Aplikasi](apklaundry1/assets/image2.png)
+![Tampilan Aplikasi](assets/image2.png)
